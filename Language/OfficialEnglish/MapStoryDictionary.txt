@@ -1,0 +1,15 @@
+Key	Value
+行商时间	Merchant Time
+行商到来天数	Number of days for merchant to arrive
+下次访问最大时间	Maximum Next Visit
+下次访问最小时间	Minimum Next Visit
+修改	Modify
+输入的内容非数字,请重新输入	Please re-enter: input is not a number
+行商携带物品数量	Carry Item Count
+行商立刻到来	Merchant Arrives Immediately
+行商误杀	Merchant Mistakenly Killed
+删除人物	Delete Character
+关闭天数显示	Close Days Display
+打开天数显示	Open Days Display
+横坐标X	Horizontal axis X
+纵坐标Y	Vertical axis Y
